@@ -6,6 +6,7 @@ The following libraries are used in this repository:
 - Pandas
 - Numpy
 - Gurobi
+- Matplotlib
 
 Problems in different contexts from supply chain to finance are explored in the notebooks. Here is a brief review of what can be found in each notebook:
 
