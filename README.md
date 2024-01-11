@@ -2,6 +2,11 @@
 
 This repository includes sample optimization works using Linear Programming, Mixed Integer Programming, Non-Linear Programming, and an implementation of the Gradient Descent algorithm.
 
+The following libraries are used in this repository:
+- Pandas
+- Numpy
+- Gurobi
+
 Problems in different contexts from supply chain to finance are explored in the notebooks. Here is a brief review of what can be found in each notebook:
 
 
